@@ -1,0 +1,4 @@
+PUSH 4
+PUSH 56
++
+DEFINE a 4

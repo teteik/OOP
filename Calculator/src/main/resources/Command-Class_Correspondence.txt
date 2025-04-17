@@ -1,0 +1,9 @@
+PUSH Calculator.src.main.java.Push
+POP Calculator.src.main.java.Pop
+PRINT Calculator.src.main.java.Print
+DEFINE Calculator.src.main.java.Define
++ Calculator.src.main.java.Addition
+- Calculator.src.main.java.Subtraction
+* Calculator.src.main.java.Multiplication
+/ Calculator.src.main.java.Division
+SQRT Calculator.src.main.java.SQRT
