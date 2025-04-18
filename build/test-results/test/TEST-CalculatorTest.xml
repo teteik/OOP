@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2025-04-18T02:45:50" hostname="DESKTOP-1VSDVPJ" time="0.159">
+  <properties/>
+  <testcase name="testEmptyStack()" classname="CalculatorTest" time="0.044"/>
+  <testcase name="testNotNumberAdd()" classname="CalculatorTest" time="0.01"/>
+  <testcase name="testNotNumberDiv()" classname="CalculatorTest" time="0.008"/>
+  <testcase name="testNotNumberSub()" classname="CalculatorTest" time="0.007"/>
+  <testcase name="testAdd()" classname="CalculatorTest" time="0.008"/>
+  <testcase name="testDiv()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="testSub()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="testMult()" classname="CalculatorTest" time="0.007"/>
+  <testcase name="testSQRT()" classname="CalculatorTest" time="0.005"/>
+  <testcase name="testPopCommand()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="testNotNumberMult()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="testNotNumberSQRT()" classname="CalculatorTest" time="0.005"/>
+  <testcase name="testEmptyStack1()" classname="CalculatorTest" time="0.004"/>
+  <testcase name="testComment()" classname="CalculatorTest" time="0.004"/>
+  <testcase name="testDivisionByZero()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="testInfinity()" classname="CalculatorTest" time="0.007"/>
+  <testcase name="testPushAndPrintCommands()" classname="CalculatorTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

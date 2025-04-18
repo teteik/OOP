@@ -1,0 +1,3 @@
+PUSH 25
+SQRT
+PRINT
