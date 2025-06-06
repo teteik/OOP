@@ -1,4 +1,0 @@
-PUSH 15
-PUSH 5
-/
-PRINT

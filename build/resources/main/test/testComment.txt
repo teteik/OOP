@@ -1,3 +1,0 @@
-# This is a comment
-PUSH 5
-PRINT
